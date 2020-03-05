@@ -5,7 +5,7 @@
 </head>
 <body>
 <?php 
-	echo "Haloooo";	
+	echo "Halooao";	
 	echo "baruuuuu";
  ?>
 </body>
