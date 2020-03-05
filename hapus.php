@@ -4,9 +4,6 @@
 	<title></title>
 </head>
 <body>
-<?php 
-	echo "Halooauao";	
-	echo "baruuuuu";
- ?>
+ Ini perintah untuk menghapus
 </body>
 </html>
