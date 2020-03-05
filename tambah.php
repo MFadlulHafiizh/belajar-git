@@ -4,6 +4,6 @@
 	<title></title>
 </head>
 <body>
-Assalamualaikum
+Assalamualaikum wr.wb
 </body>
 </html>
